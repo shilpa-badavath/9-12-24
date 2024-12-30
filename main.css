@@ -1,0 +1,20 @@
+/*ans-1*/
+.box > .text  {
+    background-color: aqua;
+  }
+  /*ans-2*/
+.container .content {
+    color: red;
+}
+/*ans-3*/
+.parent .child ~ .sibling {
+    background-color: lightsalmon;
+}
+/*ans-4*/
+.box + div {
+    color: blue;
+  }
+  .wrapper > .content + .content {
+    background-color: greenyellow;
+
+  }
